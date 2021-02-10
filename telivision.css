@@ -1,0 +1,24 @@
+.outer-div {
+    display: inline-flex;
+    width: 95%;
+    margin: auto;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.title {
+    background-color:transparent;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+form{
+    position: relative;
+    margin-left: 600px;
+    margin-right: 600px;
+  
+    
+}
+
+body{
+    background-color: aquamarine;    
+}
